@@ -1,0 +1,67 @@
+.float-left-area  {
+    width: 95%;
+    height: 60%;
+    float: left;
+}
+
+.float-right-area {
+    width: 5%;
+    height:500px;
+    float:right; 
+   
+}
+
+.clear-floated	  { 
+    clear: both; height: 1px; font-size: 1px; line-height: 1px; padding: 0; margin: 0; 
+}
+
+.main{
+    border: 1px solid #7fb3d5;
+    margin: 5px;
+    padding:0px;
+    background-color: #7fb3d5 ; height:10%; width:100%;
+    text-align: center;    
+}
+footer{
+    background-color: #7fb3d5 ;
+    text-align: center;  
+}
+ 
+#content{
+    border:1px solid #fff;
+    width:70%;
+    margin: 10px;
+}
+h3{
+    color : #fff;
+    display : inline-block;
+    margin-bottom : 1em;
+    padding : 0.5em 1em;
+    font-family:Verdana, Geneva, Tahoma,cursive;
+    font-size: 24px;
+}
+main p, footer{
+    color : #fff;
+    padding : 0.5em 1em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:16px;
+}
+article{
+    background-color:#f2f3f4;
+    margin:0px;
+}
+
+li h4{
+    color: #7fb3d5 ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:16px
+   
+}
+li p {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 8px;    
+}
+figcaption {
+    font-style:italic;
+}
+
